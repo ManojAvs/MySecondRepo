@@ -1,0 +1,11 @@
+package com.test.ecli;
+
+import java.util.Calendar;
+
+public class Class1 {
+	public static void main(String[] args) {
+		
+		System.out.println("Test 1"+Calendar.getInstance().getTime());
+	}
+
+}
