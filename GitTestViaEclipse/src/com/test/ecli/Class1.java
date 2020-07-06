@@ -7,8 +7,7 @@ public class Class1 {
 		
 		System.out.println("Test 1"+Calendar.getInstance().getTime());
 		System.out.println("Test 2"+Calendar.getInstance().getTime());
-		System.out.println("Line 3 "+Calendar.getInstance().getTime());
-		System.out.println("Line 4 "+Calendar.getInstance().getTime());
+		
 	}
 
 }
