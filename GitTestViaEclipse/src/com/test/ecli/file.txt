@@ -1,11 +1,6 @@
 
 line from eclipse
-
-
-<<<<<<< HEAD
-
-
 line from eclipse1
-=======
+
 line from github
->>>>>>> refs/remotes/origin/master
+
