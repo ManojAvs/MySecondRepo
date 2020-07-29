@@ -1,7 +1,5 @@
 line from git
-
-
 line from git
-
 line from eclipse
+
 
